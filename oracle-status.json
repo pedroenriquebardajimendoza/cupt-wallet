@@ -1,0 +1,11 @@
+{
+  "source": "cambiocup.com",
+  "sourceUrl": "https://www.cambiocup.com/api",
+  "fetched": 1001.20598481602,
+  "sourceUpdatedAt": "2026-10-14T10:40:19.688839+00:00",
+  "accepted": true,
+  "reason": "ok",
+  "onchainRate": 1001.205985,
+  "lastTx": "0xe963209f4e1d58c1c54d85d4d185e08dfd48881f02c6a677d9922fbff90175b4",
+  "checkedAt": "2026-10-14T10:40:55.938Z"
+}
